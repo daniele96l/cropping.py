@@ -1,0 +1,1012 @@
+header
+speed limit 50 (mandatory)0.32
+speed limit 50 (mandatory)0.96
+speed limit 50 (mandatory)0.96
+direction straight (mandatory)0.33
+no pedestrian (mandatory)0.96
+speed limit 50 (mandatory)0.88
+speed limit 50 (mandatory)0.57
+speed limit 50 (mandatory)0.82
+speed limit 50 (mandatory)0.62
+speed limit 30 (mandatory)0.80
+speed limit 50 (mandatory)0.91
+speed limit 50 (mandatory)0.76
+speed limit 50 (mandatory)0.95
+speed limit 50 (mandatory)0.81
+speed limit 50 (mandatory)0.87
+dead end (indication)0.99
+dead end (indication)0.99
+dead end (indication)0.99
+dead end (indication)0.99
+stop (mandatory)0.92
+no entry (mandatory)0.99
+speed limit 30 (mandatory)0.54
+speed limit 70 (mandatory)0.96
+stop (mandatory)0.84
+no entry (mandatory)0.53
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+give way (warning)0.99
+no entry (mandatory)0.99
+give way (warning)0.90
+no entry (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+stop (mandatory)1.0
+no entry (mandatory)1.0
+stop (mandatory)0.57
+stop (mandatory)1.0
+no entry (mandatory)0.92
+stop (mandatory)0.68
+stop (mandatory)0.99
+stop (mandatory)1.0
+no entry (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)0.99
+stop (mandatory)0.99
+stop (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+traffic priority (indication)0.32
+give way (warning)0.99
+parking place (indicaftion)0.87
+give way (warning)0.99
+speed limit 30 (mandatory)0.35
+parking place (indicaftion)0.58
+give way (warning)1.0
+pedal cycles (mandatory)0.61
+give way (warning)0.99
+no horse (mandatory)0.85
+pedal cycles (mandatory)0.74
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)1.0
+speed limit 30 (mandatory)0.28
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)0.99
+major road (indication)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.88
+no trucks (mandatory)0.88
+zebra crossing (warning)1.0
+zebra crossing (warning)1.0
+traffic priority (indication)0.72
+sleeping policeman (warning)0.48
+zebra crossing (warning)1.0
+no trucks (mandatory)0.95
+junction (warning)0.72
+junction (warning)0.98
+no entry (mandatory)0.99
+junction (warning)0.94
+slippery road (warning)0.42
+no entry (mandatory)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.62
+direction right (mandatory)0.99
+no entry (mandatory)0.99
+junction (warning)0.87
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+no entry (mandatory)0.99
+direction right (mandatory)0.99
+no entry (mandatory)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.91
+zebra crossing (indication)0.99
+stop (mandatory)0.99
+zebra crossing (indication)0.99
+one way (indication)0.80
+zebra crossing (indication)0.99
+pedal cycles (mandatory)0.86
+stop (mandatory)0.99
+zebra crossing (indication)0.55
+road narrows (warning)0.97
+pedal cycles (mandatory)0.98
+stop (mandatory)0.97
+stop (mandatory)0.94
+road narrows (warning)0.70
+stop (mandatory)0.99
+give way (warning)0.96
+road narrows (warning)0.97
+stop (mandatory)0.39
+ soft verges (warning)0.88
+ soft verges (warning)0.25
+give way (warning)0.96
+ soft verges (warning)0.50
+give way (warning)0.86
+bend (warning)0.56
+give way (warning)0.99
+stop (mandatory)0.98
+give way (warning)0.99
+roundabout (warning)0.81
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+roundabout (warning)0.99
+give way (warning)0.99
+roundabout (warning)0.99
+give way (warning)0.99
+roundabout (warning)0.99
+roundabout (warning)0.98
+give way (warning)0.99
+roundabout (warning)0.99
+give way (warning)0.99
+speed limit 50 (mandatory)0.49
+give way (warning)0.85
+give way (warning)0.74
+give way (warning)0.98
+stop (mandatory)0.99
+stop (mandatory)0.99
+give way (warning)0.99
+speed limit 30 (mandatory)0.61
+direction straight (mandatory)0.85
+stop (mandatory)0.99
+no waiting (mandatory)0.99
+give way (warning)0.95
+parking place (indicaftion)0.77
+stop (mandatory)0.94
+ soft verges (warning)0.63
+pedal cycles (mandatory)0.94
+give way (warning)0.99
+direction right (mandatory)0.99
+stop (mandatory)0.87
+direction right (mandatory)0.99
+stop (mandatory)0.99
+no entry (mandatory)0.99
+stop (mandatory)0.99
+zebra crossing (indication)0.60
+stop (mandatory)0.99
+no entry (mandatory)0.99
+ soft verges (warning)0.27
+direction right (mandatory)0.99
+give way (warning)0.99
+stop (mandatory)0.99
+no entry (mandatory)0.99
+zebra crossing (indication)0.66
+give way (warning)0.99
+give way (warning)0.99
+roundabout (mandatory)0.58
+direction straight (mandatory)0.46
+no entry (mandatory)0.99
+direction right (mandatory)0.68
+give way (warning)0.99
+give way (warning)0.99
+pedal cycles (mandatory)0.66
+no entry (mandatory)0.99
+direction right (mandatory)0.99
+crossroads (warning)0.92
+give way (warning)1.0
+give way (warning)0.88
+no entry (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)0.99
+give way (warning)0.99
+no entry (mandatory)0.99
+zebra crossing (indication)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.70
+zebra crossing (indication)0.99
+no entry (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)1.0
+direction right (mandatory)0.99
+no entry (mandatory)0.99
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)1.0
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)1.0
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)1.0
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+major road end (indication)0.77
+direction right (mandatory)0.99
+give way (warning)0.99
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction left-right (mandatory)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+direction left-right (mandatory)0.98
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+zebra crossing (indication)0.99
+direction left-right (mandatory)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+direction left-right (mandatory)1.0
+zebra crossing (indication)0.99
+direction left-right (mandatory)1.0
+zebra crossing (indication)0.98
+direction left-right (mandatory)0.99
+direction left-right (mandatory)1.0
+zebra crossing (indication)0.99
+direction left-right (mandatory)1.0
+zebra crossing (indication)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+zebra crossing (indication)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+zebra crossing (indication)0.98
+direction left-right (mandatory)1.0
+no trucks (mandatory)0.99
+zebra crossing (indication)0.99
+no trucks (mandatory)0.99
+direction left-right (mandatory)1.0
+no trucks (mandatory)0.99
+direction left-right (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)1.0
+stop (mandatory)0.99
+stop (mandatory)0.99
+stop (mandatory)0.99
+stop (mandatory)0.99
+stop (mandatory)0.99
+speed limit 30 (mandatory)0.88
+speed limit 50 (mandatory)0.77
+speed limit 50 (mandatory)0.72
+zebra crossing (indication)0.91
+junction (warning)0.92
+zebra crossing (indication)0.94
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.65
+junction (warning)0.85
+zebra crossing (indication)0.99
+zebra crossing (indication)1.0
+speed limit 50 (mandatory)0.93
+speed limit 50 (mandatory)0.22
+stop (mandatory)0.64
+generic warning type0 (warning)0.80
+speed limit 30 (mandatory)0.49
+zebra crossing (indication)0.98
+zebra crossing (indication)0.99
+junction (warning)0.54
+junction (warning)0.66
+zebra crossing (indication)0.26
+zebra crossing (indication)0.86
+zebra crossing (indication)0.59
+crossroads (warning)0.58
+zebra crossing (indication)0.96
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+speed limit 50 (mandatory)0.92
+direction left-right (mandatory)0.66
+speed limit 50 (mandatory)0.63
+direction left-right (mandatory)0.95
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.97
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+stop (mandatory)0.99
+speed limit 50 (mandatory)0.53
+speed limit 30 (mandatory)0.63
+speed limit 30 (mandatory)0.76
+speed limit 90 (mandatory)0.72
+no waiting (mandatory)0.98
+no waiting (mandatory)0.99
+no waiting (mandatory)1.0
+no waiting (mandatory)1.0
+no waiting (mandatory)1.0
+no waiting (mandatory)0.99
+no waiting (mandatory)1.0
+no waiting (mandatory)1.0
+speed limit 30 (mandatory)0.81
+pedal cycles (mandatory)0.76
+no pedestrian (mandatory)0.29
+speed limit 30 (mandatory)0.84
+traffic priority (indication)0.29
+give way (warning)0.86
+give way (warning)0.72
+give way (warning)0.68
+no waiting (mandatory)0.99
+speed limit 30 (mandatory)0.97
+no waiting (mandatory)0.91
+no waiting (mandatory)0.95
+give way (warning)0.99
+no waiting (mandatory)0.87
+no waiting (mandatory)0.95
+give way (warning)0.99
+stop (mandatory)0.99
+give way (warning)0.99
+stop (mandatory)0.96
+give way (warning)0.99
+stop (mandatory)0.99
+give way (warning)0.99
+no trucks (mandatory)0.98
+give way (warning)0.99
+no trucks (mandatory)0.96
+give way (warning)0.99
+no trucks (mandatory)0.99
+give way (warning)0.99
+no trucks (mandatory)0.96
+give way (warning)0.99
+no trucks (mandatory)0.99
+give way (warning)0.99
+no trucks (mandatory)0.97
+give way (warning)0.95
+no trucks (mandatory)0.98
+no trucks (mandatory)0.97
+no trucks (mandatory)0.99
+speed limit 30 (mandatory)0.66
+no trucks (mandatory)0.99
+speed limit 30 (mandatory)0.97
+no trucks (mandatory)0.99
+stop (mandatory)0.99
+no trucks (mandatory)0.99
+stop (mandatory)0.99
+no trucks (mandatory)0.87
+speed limit 30 (mandatory)0.99
+no trucks (mandatory)0.99
+no trucks (mandatory)0.99
+speed limit 30 (mandatory)0.99
+no trucks (mandatory)0.99
+speed limit 30 (mandatory)0.90
+no stopping (mandatory)0.39
+crossroads (warning)0.28
+speed limit 60 (mandatory)0.56
+zebra crossing (indication)0.99
+stop (mandatory)0.98
+speed limit 30 (mandatory)0.38
+no waiting (mandatory)0.99
+zebra crossing (indication)0.99
+crossroads (warning)0.65
+zebra crossing (indication)0.99
+schol crossing (warning)0.73
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+schol crossing (warning)0.78
+zebra crossing (indication)0.99
+schol crossing (warning)0.37
+speed limit 30 (mandatory)0.52
+zebra crossing (indication)0.99
+no waiting (mandatory)0.99
+no waiting (mandatory)0.65
+speed limit 50 (mandatory)0.69
+pedal cycles (mandatory)0.64
+speed limit 50 (mandatory)0.98
+speed limit 50 (mandatory)0.98
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)1.0
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+stop (mandatory)0.90
+ soft verges (warning)0.97
+speed limit 70 (mandatory)0.43
+junction (warning)0.50
+junction (warning)0.82
+junction (warning)0.53
+speed limit 70 (mandatory)0.47
+direction straight (mandatory)0.95
+generic warning type0 (warning)0.60
+direction straight (mandatory)0.99
+turn (indication)0.85
+no waiting (mandatory)0.99
+no waiting (mandatory)0.99
+no waiting (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+speed limit 30 (mandatory)0.56
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.98
+speed limit 30 (mandatory)0.74
+zebra crossing (indication)0.99
+speed limit 30 (mandatory)0.80
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+speed limit 50 (mandatory)0.29
+zebra crossing (indication)0.99
+stop (mandatory)0.99
+zebra crossing (indication)0.99
+parking place (indicaftion)0.81
+ bridge ahead (indication)0.54
+ bridge ahead (indication)0.86
+direction left (mandatory)0.82
+speed limit 50 (mandatory)0.57
+stop (mandatory)0.51
+speed limit 30 (mandatory)0.91
+no waiting (mandatory)0.99
+no waiting (mandatory)0.99
+speed limit 60 (mandatory)0.97
+pedal cycles (mandatory)0.73
+direction right (mandatory)0.84
+give way (warning)0.99
+traffic priority (indication)0.60
+give way (warning)0.97
+give way (warning)0.99
+traffic priority (indication)0.52
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.96
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+ bridge ahead (indication)0.72
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+traffic priority (indication)0.61
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.85
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+ bridge ahead (indication)0.44
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction left-right (mandatory)0.56
+roundabout (mandatory)0.82
+direction right (mandatory)0.96
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+speed limit 50 (mandatory)0.76
+roundabout (mandatory)0.99
+speed limit 50 (mandatory)0.66
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+roundabout (mandatory)0.35
+speed limit 50 (mandatory)0.97
+roundabout (mandatory)0.99
+one way (indication)0.35
+speed limit 50 (mandatory)0.97
+direction right (mandatory)0.90
+give way (warning)0.99
+give way (warning)0.99
+roundabout (mandatory)0.99
+give way (warning)0.99
+roundabout (mandatory)0.99
+direction right (mandatory)0.94
+direction right (mandatory)0.98
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+junction (warning)0.42
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+speed limit 30 (mandatory)0.47
+speed limit 50 (mandatory)0.85
+direction left-right (mandatory)1.0
+speed limit 30 (mandatory)0.93
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+speed limit 30 (mandatory)0.99
+direction left-right (mandatory)1.0
+direction left-right (mandatory)1.0
+give way (warning)0.99
+direction right (mandatory)0.91
+direction left-right (mandatory)0.47
+direction right (mandatory)0.97
+direction right (mandatory)0.61
+direction right (mandatory)0.80
+give priority (mandatory)0.50
+direction left-right (mandatory)0.46
+roundabout (warning)0.56
+direction left-right (mandatory)0.99
+direction straight (mandatory)0.37
+direction left-right (mandatory)0.99
+direction right (mandatory)0.99
+no entry (mandatory)0.99
+parking place (indicaftion)0.99
+uneven road (warning)0.62
+stop (mandatory)0.47
+speed limit 50 (mandatory)0.67
+speed limit 50 (mandatory)0.36
+no entry (mandatory)0.99
+no entry (mandatory)0.55
+no entry (mandatory)0.99
+one way (indication)0.44
+no entry (mandatory)0.99
+one way (indication)0.48
+no entry (mandatory)0.99
+direction straight (mandatory)0.53
+no entry (mandatory)0.99
+direction straight (mandatory)0.61
+no entry (mandatory)0.99
+direction straight (mandatory)0.70
+no entry (mandatory)0.99
+direction straight (mandatory)0.58
+no entry (mandatory)0.99
+no entry (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+zebra crossing (indication)0.43
+zebra crossing (indication)0.98
+zebra crossing (indication)0.86
+zebra crossing (indication)0.99
+zebra crossing (indication)0.92
+zebra crossing (indication)0.94
+zebra crossing (indication)0.99
+zebra crossing (indication)0.98
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+bend (warning)0.65
+zebra crossing (indication)0.99
+no waiting (mandatory)0.99
+speed limit 30 (mandatory)0.99
+speed limit 50 (mandatory)0.39
+speed limit 50 (mandatory)0.76
+speed limit 50 (mandatory)0.96
+give way (warning)0.99
+speed limit 30 (mandatory)0.36
+speed limit 50 (mandatory)0.72
+major road (indication)0.89
+speed limit 30 (mandatory)0.28
+speed limit 50 (mandatory)0.67
+zebra crossing (indication)0.99
+zebra crossing (indication)0.91
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+stop (mandatory)0.67
+no entry (mandatory)0.67
+stop (mandatory)0.53
+speed limit 50 (mandatory)0.89
+speed limit 50 (mandatory)0.87
+speed limit 30 (mandatory)0.56
+speed limit 30 (mandatory)0.76
+speed limit 30 (mandatory)0.95
+max height type0 (mandatory)0.67
+max height (mandatory)0.31
+max height (mandatory)0.39
+max height (mandatory)0.26
+traffic light (warning)0.64
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)1.0
+roundabout (warning)0.99
+give way (warning)1.0
+roundabout (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+zebra crossing (warning)0.97
+roundabout (warning)0.99
+roundabout (warning)0.99
+junction (warning)0.69
+roundabout (warning)0.99
+junction (warning)0.75
+roundabout (warning)0.99
+zebra crossing (warning)0.99
+zebra crossing (warning)0.99
+zebra crossing (warning)0.99
+stop (mandatory)0.90
+zebra crossing (warning)0.99
+zebra crossing (warning)0.99
+zebra crossing (warning)1.0
+speed limit 70 (mandatory)0.19
+zebra crossing (warning)0.99
+zebra crossing (warning)0.99
+zebra crossing (warning)0.99
+give way (warning)0.93
+give way (warning)0.97
+direction right (mandatory)0.99
+give way (warning)0.91
+give way (warning)0.54
+give way (warning)0.96
+give way (warning)0.97
+direction right (mandatory)0.90
+give way (warning)0.91
+direction right (mandatory)1.0
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+zebra crossing (indication)0.96
+direction right (mandatory)0.99
+give way (warning)0.99
+zebra crossing (indication)0.98
+direction right (mandatory)0.99
+give way (warning)0.99
+direction left-right (mandatory)0.34
+junction (warning)0.98
+ bridge ahead (indication)0.92
+direction right (mandatory)0.99
+give way (warning)0.99
+ bridge ahead (indication)0.95
+give way (warning)0.99
+direction right (mandatory)1.0
+direction right (mandatory)1.0
+give way (warning)0.99
+one way (indication)0.95
+zebra crossing (indication)0.99
+give way (warning)0.99
+direction right (mandatory)0.84
+zebra crossing (indication)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+zebra crossing (indication)0.91
+direction right (mandatory)0.99
+give way (warning)0.99
+zebra crossing (indication)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+stop (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+roundabout (mandatory)0.63
+ no vehicles (mandatory)0.82
+direction right (mandatory)0.99
+give way (warning)0.99
+pedal cycles (mandatory)0.93
+direction right (mandatory)0.99
+give way (warning)0.99
+roundabout (mandatory)0.95
+direction right (mandatory)0.99
+give way (warning)0.99
+no entry (mandatory)0.99
+direction right (mandatory)1.0
+traffic priority (indication)0.90
+direction left (mandatory)0.72
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+zebra crossing (indication)0.49
+no entry (mandatory)0.99
+direction left-right (mandatory)0.75
+no entry (mandatory)0.99
+direction left-right (mandatory)0.99
+no entry (mandatory)1.0
+direction left-right (mandatory)0.99
+no entry (mandatory)0.99
+direction straight (mandatory)0.93
+direction left-right (mandatory)0.99
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+speed limit 90 (mandatory)0.42
+no entry (mandatory)0.99
+direction left-right (mandatory)1.0
+no entry (mandatory)0.99
+direction left-right (mandatory)1.0
+no entry (mandatory)0.99
+no entry (mandatory)0.99
+direction left-right (mandatory)0.99
+zebra crossing (indication)0.63
+direction left-right (mandatory)0.99
+junction (warning)0.95
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+direction left-right (mandatory)0.99
+zebra crossing (indication)0.96
+direction left-right (mandatory)0.99
+zebra crossing (indication)0.70
+zebra crossing (indication)0.88
+zebra crossing (indication)0.84
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+road narrows (warning)0.66
+zebra crossing (indication)0.99
+zebra crossing (indication)0.99
+give way (warning)0.99
+give way (warning)0.61
+give way (warning)0.99
+give way (warning)0.99
+major road (indication)0.42
+give way (warning)0.99
+give way (warning)0.94
+speed limit 50 (mandatory)0.42
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+slippery road (warning)0.56
+give way (warning)0.97
+direction right (mandatory)0.99
+give way (warning)0.81
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)0.61
+give way (warning)0.99
+zebra crossing (indication)0.99
+direction right (mandatory)1.0
+give way (warning)0.99
+give way (warning)0.97
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)0.51
+give way (warning)0.99
+direction right (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)1.0
+give way (warning)0.99
+pedal cycles (mandatory)0.99
+zebra crossing (indication)0.99
+give way (warning)1.0
+give way (warning)1.0
+zebra crossing (indication)0.99
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)1.0
+give way (warning)0.99
+parking place (indicaftion)0.28
+give way (warning)0.99
+give way (warning)1.0
+roundabout (mandatory)0.99
+roundabout (mandatory)0.49
+give way (warning)0.99
+give way (warning)1.0
+roundabout (mandatory)0.99
+direction right (mandatory)0.99
+stop (mandatory)0.96
+give way (warning)0.99
+direction right (mandatory)0.99
+roundabout (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.94
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.50
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)1.0
+give way (warning)0.99
+give way (warning)0.99
+one way (indication)0.99
+give way (warning)1.0
+one way (indication)0.92
+give way (warning)1.0
+dead end (indication)0.69
+give way (warning)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.91
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.93
+direction right (mandatory)0.54
+give way (warning)0.99
+give way (warning)0.75
+direction right (mandatory)1.0
+give way (warning)0.75
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+speed limit 30 (mandatory)0.40
+give way (warning)0.80
+direction right (mandatory)0.99
+give way (warning)0.97
+give way (warning)0.99
+direction right (mandatory)0.99
+one way (indication)0.97
+speed limit 30 (mandatory)0.67
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+one way (indication)0.99
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)1.0
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)1.0
+direction right (mandatory)0.81
+give way (warning)0.99
+give way (warning)0.99
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)1.0
+direction right (mandatory)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)0.87
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.99
+direction right (mandatory)1.0
+give way (warning)1.0
+give way (warning)0.99
+direction right (mandatory)0.99
+give way (warning)0.96
+direction right (mandatory)1.0
+direction right (mandatory)0.99
+give way (warning)0.99
+give way (warning)1.0
+direction right (mandatory)0.99
+give way (warning)1.0
+direction right (mandatory)0.99
+give way (warning)0.99
+direction straight (mandatory)0.53
+direction right (mandatory)0.99
+give way (warning)1.0
+give way (warning)0.99
+traffic light (warning)0.60
+roundabout (mandatory)0.99
+cattle (warning)0.87
+direction right (mandatory)1.0
+give way (warning)1.0
+give way (warning)1.0
+direction right (mandatory)0.99
+roundabout (mandatory)0.99
+give way (warning)0.99
+speed limit 30 (mandatory)0.53
+give way (warning)1.0
+give way (warning)1.0
+roundabout (mandatory)0.92
+direction right (mandatory)0.99
+roundabout (mandatory)0.99
+give way (warning)0.99
+give way (warning)1.0
+parking place (indicaftion)0.62
+give way (warning)0.98
+give way (warning)1.0
+direction right (mandatory)0.99
+roundabout (mandatory)0.83
+direction right (mandatory)1.0
+give way (warning)0.96
+direction right (mandatory)1.0
+no bike (mandatory)0.45
+direction right (mandatory)1.0
+no bike (mandatory)0.99
+give way (warning)0.99
+speed limit 50 (mandatory)0.32

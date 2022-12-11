@@ -2,11 +2,12 @@ import pandas as pd
 import re
 from operator import itemgetter
 import numpy as np
+#CLASSE DI SUPPORTO CHE RITORNA LA LISTA DEI SEGNALI RILEVATI "SORTED LIST" USATA IN STACK.PY
 
 sensor_h_mm = 8.6
 image_h_px = 2448
 real_h_mm = 900  # da prendere da un file che itera e trova il sengale corretto
-object_h_px = 0  # in imput dal file generato in output da YOLO
+object_h_px = 0  # in input dal file generato in output da YOLO
 f_m = 4.4
 
 with open("rilevamenti_original.txt", "r") as myfile:

@@ -2,7 +2,11 @@ import pandas as pd
 import csv
 from operator import itemgetter
 
-with open("kaggle2.txt", "r") as myfile:
+#Va a mettere le nuove classificaizoni in un formato leggibile dall'altro progetto
+#Apro il file con le vecchie classificazini  in txt
+#Apro il file con le nuove in csv
+#Scrivo in un nuovo file
+with open("rilevamenti_original.txt", "r") as myfile:
     data = myfile.read().splitlines()
 
 new_data = []
@@ -20,7 +24,8 @@ new_list3 = [s.replace("'", "") for s in new_list2]
 
 new_list4 = []
 for i in new_list3:
-    if (len(i) < 20):
+    #print(i)
+    if (len(i) < 20):#gestire eccezioni e righe vuote
         i += ","
         i += ","
         i += ","
@@ -47,7 +52,8 @@ sorted_list = sorted(new_list5, key=itemgetter(5))
 sorted_list2 = pd.DataFrame(sorted_list)
 sorted_list2[4] = sorted_list2[4].str[5:-4]
 
-new_col = pd.read_csv('dati_mappa.csv')
+new_col = pd.read_csv('new_model.csv') #qui dentro ci sono le predizioni di kaggle!!!!!!!!!!!!!!!!!!!!!!!!
+#così aggiustiamo le label e le confidence per ogni detection
 
 print(new_col)
 
@@ -70,18 +76,19 @@ for i in range(len(sorted_list2)):
 sorted_list2.drop(columns = [6], axis = 1, inplace = True)
 sorted_list2.drop(columns = [4], axis = 1, inplace = True)
 
-sorted_list2["Class"] = "'" +new_col + str(" 0.55") +"',"
+
+
+#sorted_list2["Class"] = "'" +new_col + str(" 0.55") +"',"
+sorted_list2["Class"] = "'" +new_col  +"',"
+
+
 
 
 sorted_list2[5], sorted_list2["Class"] = sorted_list2["Class"],sorted_list2[5]
 
 
-
 x = pd.DataFrame.to_string(sorted_list2,columns=[0,1,2,3,5,"Class"], header=False,index=False,col_space = 0)
 
-with open('kaggle2.txt', 'w') as f:
+with open('rilevazioni_updated.txt', 'w') as f:
         f.write(x)
 
-
-
-print("Hello")
